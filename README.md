@@ -14,4 +14,4 @@ For any questions, find me on [linkedin](https://www.linkedin.com/in/simrat-kara
 This exercise is for educational purposes only
 
 ## License
-This project is licensed under the [MIT License](https://github.com/skaramje/Build-a-Formik-Form/blob/main/LICENSE)
+This project is licensed under the [MIT License](https://github.com/skaramje/Build-a-Formik-Form/blob/master/LICENSE)
